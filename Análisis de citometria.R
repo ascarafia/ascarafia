@@ -1,6 +1,9 @@
 ##############################################
 ############    MAPA Y BRUJULA    ############
 
+#TUTORIAL: Flow cytometry analisis using Accuri Software, R and ggplot2
+#https://www.youtube.com/watch?v=TdzVxcGLVzU&t=37s
+
 work.space <- dirname(rstudioapi::getSourceEditorContext()$path)
 setwd(work.space)
 
